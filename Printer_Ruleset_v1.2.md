@@ -33,7 +33,7 @@
 
 -	ABS plastic residues must be disposed in the bin positioned close to the printers and labelled as in figure: 
     
-    ![Label](assets/images/Picture1.png)
+    ![Label](assets/images/CER_Label.png)
     
 
 -	Exhausted cartridge must be placed along with others without any envelope. 
