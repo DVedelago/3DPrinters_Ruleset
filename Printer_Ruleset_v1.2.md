@@ -22,8 +22,8 @@
 -	Any job longer than 12 hours must be commissioned to IIT’s workshop.
 
 
-***Job/Parts extraction***
-------------------------
+***JOB/PARTS EXTRACTION***
+--------------------------
 1. Remove plate from printer and let it cool down 30 sec. 
 2. Bend the plate in all direction, and then pull the part out - you can use the spatula to help the process.
 3. Carefully remove any plastic residual left from the plate. 
