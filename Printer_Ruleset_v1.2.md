@@ -33,7 +33,8 @@
 
 -	ABS plastic residues must be disposed in the bin positioned close to the printers and labelled as in figure: 
     
-    ![Label](https://raw.github.com/DVedelago/3DPrinters_Ruleset/tree/main/assets/images/Picture1.png?raw=true)
+    ![Label](https://github.com/DVedelago/3DPrinters_Ruleset/blob/main/assets/images/Picture1.png?raw=true)
+    
 
 -	Exhausted cartridge must be placed along with others without any envelope. 
 
