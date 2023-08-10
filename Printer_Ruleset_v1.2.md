@@ -29,7 +29,7 @@
 3. Carefully remove any plastic residual left from the plate. 
 4. Put back the CLEANED plate in the printer and secure it. 
 
-## ***ABS Disposal***
+## <p style="text-align: center;"> ***ABS Disposal***
 
 -	ABS plastic residues must be disposed in the bin positioned close to the printers and labelled as in figure: 
     
