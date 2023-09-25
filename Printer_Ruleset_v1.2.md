@@ -60,9 +60,13 @@
 
 -	If you have doubts or need help, please contact one of the Facility’s technician. 
 
+## <span style="color:turquoise"> <p style="text-align: center;"> ***Printers' IP Addresses***</span>
 
+-   10.240.20.16
+-   10.240.20.30
 
 ## <span style="color:turquoise"> <p style="text-align: center;"> ***Contacts***</span>
+
 Diego Vedelago – 3D Printers Admin – 345 853 8898
 
 Yussef Hassanien – Support technician 
