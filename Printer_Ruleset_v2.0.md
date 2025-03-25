@@ -5,6 +5,8 @@
 
 -   Setup GrabCAD according to the next section.
 
+-   Only Admins will be able to access the 3D Printers room.
+
 -	Only Admins will be able to start jobs accordingly to queue schedule. 
 
 -   The printing queue will be handled by the Admins.
